@@ -1,6 +1,7 @@
 # NYP Y1 S2 AppDev Final Project 
 
-Background
+### Background
+
 You are a group of creative, innovative, and energetic programmers with a dual mission: to
 drive the digital innovation of a company/industry while fostering sustainability and
 environmental responsibility. Your goal is to digitalise their existing businesses and create an
